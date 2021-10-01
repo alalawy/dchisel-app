@@ -1,2 +1,1 @@
-# dchisel-app
-DChisel minimum app
+A simple command-line application.

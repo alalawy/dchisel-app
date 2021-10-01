@@ -1,0 +1,11 @@
+name: dchisel_app
+description: A DChisel Framework minimum apps.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.14.3 <3.0.0'
+
+
+dependencies:
+  dchisel: ^1.0.2+1
+
