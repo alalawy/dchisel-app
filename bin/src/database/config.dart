@@ -5,6 +5,7 @@ class DB {
 
   /* void config() {
     DChiselDB().configDB(
+        'postgre',
         host: 'localhost',
         db: '',
         port: 5432,
